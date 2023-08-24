@@ -1,3 +1,5 @@
+Writeup and code base demonstrating big data techniques.
+
 # The Crime Analysis Task
 
 
